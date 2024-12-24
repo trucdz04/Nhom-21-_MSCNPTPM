@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SEN1",1," Soil Moisture Sensor"
+"K1",1," Relay SPDT"
+"M1",1," DC Motor"
+"D1",1,"Green LED"
+"R1, R2",2,"330 Ω Resistor"
+"P1",1,"5 , 5  Power Supply"
+"D2",1,"Red LED"
+"U2",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
